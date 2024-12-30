@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         TapSwap API Interceptor
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.0.1
 // @description  Intercept and log API requests for TapSwap
-// @author       You
+// @author       Tor968
 // @match        https://*.tapswap.club/*
 // @run-at       document-start
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tapswap.club
 // @grant        none
-// @downloadURL   https://github.com/TOR968/TapSwap-API-Interceptor/raw/refs/heads/main/tapswap.user.js
+// @downloadURL  https://github.com/TOR968/TapSwap-API-Interceptor/raw/refs/heads/main/tapswap.user.js
 // @updateURL    https://github.com/TOR968/TapSwap-API-Interceptor/raw/refs/heads/main/tapswap.user.js
 // @homepage     https://github.com/TOR968/TapSwap-API-Interceptor
 // ==/UserScript==
