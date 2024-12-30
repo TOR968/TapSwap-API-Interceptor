@@ -8,11 +8,11 @@ A Tampermonkey userscript for intercepting and logging API requests from TapSwap
 2. Install [script](https://github.com/TOR968/TapSwap-API-Interceptor/raw/main/tapswap.user.js)
 
 ## Usage
-Open dev console (F12)
-The script will automatically:
-
--   Log CHQ values when logging in (green color in console)
--   Log CHR values when making challenge requests (green color in console)
+- Open dev console (F12)
+- Start TapSwap
+- The script will automatically:
+  -   Log CHQ values when logging in (green color in console)
+  -   Log CHR values when making challenge requests (green color in console)
 
 ## Console Output Examples
 
