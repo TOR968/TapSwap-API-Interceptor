@@ -8,6 +8,9 @@
 // @run-at       document-start
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=tapswap.club
 // @grant        none
+// downloadURL   https://github.com/TOR968/TapSwap-API-Interceptor/raw/refs/heads/main/tapswap.user.js
+// @updateURL    https://github.com/TOR968/TapSwap-API-Interceptor/raw/refs/heads/main/tapswap.user.js
+// @homepage     https://github.com/TOR968/TapSwap-API-Interceptor
 // ==/UserScript==
 
 (function () {
